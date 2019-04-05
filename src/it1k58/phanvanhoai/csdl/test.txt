@@ -1,0 +1,132 @@
+		//test 1
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("D","EG"));
+		listPTH.add(new PhuThuocHam("ACD","B"));
+		listPTH.add(new PhuThuocHam("C","A"));
+		listPTH.add(new PhuThuocHam("BE","C"));
+		listPTH.add(new PhuThuocHam("CE","AG"));
+		listPTH.add(new PhuThuocHam("BC","D"));
+		listPTH.add(new PhuThuocHam("CG","BD"));
+		listPTH.add(new PhuThuocHam("G","H"));
+		u = "ABCDEGH";*/
+		//test2
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("D","EG"));
+		listPTH.add(new PhuThuocHam("C","A"));
+		listPTH.add(new PhuThuocHam("BE","C"));
+		listPTH.add(new PhuThuocHam("BC","D"));
+		listPTH.add(new PhuThuocHam("CG","BD"));
+		listPTH.add(new PhuThuocHam("ACD","B"));
+		listPTH.add(new PhuThuocHam("CE","AG"));
+		u = "ABCDEG";*/
+		//test3
+/*		listPTH.add(new PhuThuocHam("AB","CE"));
+		listPTH.add(new PhuThuocHam("CD","E"));
+		listPTH.add(new PhuThuocHam("ABC","EFG"));
+		u = "ABCDEFG";*/
+		//test 4
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("AB","D"));
+		listPTH.add(new PhuThuocHam("B","C"));
+		listPTH.add(new PhuThuocHam("C","D"));
+		u = "ABCD";*/
+		//test 5
+/*		listPTH.add(new PhuThuocHam("A","BC"));
+		listPTH.add(new PhuThuocHam("E","GC"));
+		listPTH.add(new PhuThuocHam("B","EH"));
+		listPTH.add(new PhuThuocHam("AC","I"));
+		listPTH.add(new PhuThuocHam("GD","AH"));
+		listPTH.add(new PhuThuocHam("D","JG")); 
+		u = "ABCDEGHIJ";*/
+
+		//test 7
+/*		listPTH.add(new PhuThuocHam("ABH","CK"));
+		listPTH.add(new PhuThuocHam("A","D"));
+		listPTH.add(new PhuThuocHam("C","E"));
+		listPTH.add(new PhuThuocHam("BGH","F"));
+		listPTH.add(new PhuThuocHam("F","AD"));
+		listPTH.add(new PhuThuocHam("E","F"));
+		listPTH.add(new PhuThuocHam("BH","E"));
+		u = "ABCDEFGHK";*/
+		//test 8
+/*		listPTH.add(new PhuThuocHam("AC","B"));
+		listPTH.add(new PhuThuocHam("C","B"));
+		listPTH.add(new PhuThuocHam("ABDE","GH"));
+		listPTH.add(new PhuThuocHam("A","E"));
+		listPTH.add(new PhuThuocHam("A","D"));*/
+		//tach ve phai PTH
+		//test 9
+/*		listPTH.add(new PhuThuocHam("A","BCDE"));
+		listPTH.add(new PhuThuocHam("AF","HIKG"));
+		listPTH.add(new PhuThuocHam("B","CD"));
+		listPTH.add(new PhuThuocHam("F","HIK"));*/
+		//test 10
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("CD","E"));
+		listPTH.add(new PhuThuocHam("DE","B"));*/
+		//test 11
+/*		listPTH.add(new PhuThuocHam("ACK","BCH"));
+		listPTH.add(new PhuThuocHam("CH","BD"));
+		listPTH.add(new PhuThuocHam("DG","BDE"));
+		listPTH.add(new PhuThuocHam("ABCE","CD"));*/
+		//test 12
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("A","DE"));
+		listPTH.add(new PhuThuocHam("B","F"));
+		listPTH.add(new PhuThuocHam("F","GH"));
+		listPTH.add(new PhuThuocHam("D","IJ"));*/
+		//test 13
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("BD","EF"));
+		listPTH.add(new PhuThuocHam("AD","GH"));
+		listPTH.add(new PhuThuocHam("A","I"));
+		listPTH.add(new PhuThuocHam("H","J"));*/
+		//test 14 F={AB-D,B-C,AE-B,D-EF}.
+/*		listPTH.add(new PhuThuocHam("AB","D"));
+		listPTH.add(new PhuThuocHam("B","C"));
+		listPTH.add(new PhuThuocHam("AE","B"));
+		listPTH.add(new PhuThuocHam("D","EF"));
+		u = "ABCDEF";*/
+		//test 15 CS → Z; Z → C
+/*		listPTH.add(new PhuThuocHam("AB","ABC"));
+		listPTH.add(new PhuThuocHam("B","ED"));*/		
+		//test 16 CS → Z; Z → C
+/*		listPTH.add(new PhuThuocHam("AE","C"));
+		listPTH.add(new PhuThuocHam("CG","A"));		
+		listPTH.add(new PhuThuocHam("BD","G"));		
+		listPTH.add(new PhuThuocHam("GA","E"));	*/	
+		
+		//test 6
+/*		listPTH.add(new PhuThuocHam("AC","B"));
+		listPTH.add(new PhuThuocHam("BI","ACD"));
+		listPTH.add(new PhuThuocHam("ABC","D"));
+		listPTH.add(new PhuThuocHam("H","I"));
+		listPTH.add(new PhuThuocHam("ACE","BCG"));
+		listPTH.add(new PhuThuocHam("CG","A"));
+		u = "ABCDEGHI";*/
+		
+		//test 17 F = { AB-> C, D -> C, D-> E , E-> F ,D ->A , D -> B, AB->D}
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("D","C"));
+		listPTH.add(new PhuThuocHam("D","E"));
+		listPTH.add(new PhuThuocHam("E","F"));
+		listPTH.add(new PhuThuocHam("D","A"));
+		listPTH.add(new PhuThuocHam("D","B"));
+		listPTH.add(new PhuThuocHam("AB","D"));
+		u = "ABCDEFG";*/
+		//test18
+/*		u = "ABC";
+		listPTH.add(new PhuThuocHam("A","B"));
+		listPTH.add(new PhuThuocHam("A","C"));
+		listPTH.add(new PhuThuocHam("B","A"));*/
+		
+		//test19
+/*		listPTH.add(new PhuThuocHam("B","C"));
+  		listPTH.add(new PhuThuocHam("C","B"));
+		listPTH.add(new PhuThuocHam("A","GD"));
+		u = "ABCDG";*/
+		
+		//test20 Q = {ABC}     F = {AB –> C, C -> A}.
+/*		listPTH.add(new PhuThuocHam("AB","C"));
+		listPTH.add(new PhuThuocHam("C","A"));
+		u = "ABC";*/
