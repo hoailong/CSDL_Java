@@ -11,12 +11,6 @@ public class QuanLy {
 	static String x;
 	
 	public static void main(String[] args) {
-/*ABCDEG
-B EC
-CD AB
-AC BD
-C AD
-BC AE */
 		nhapDuLieu();
 		inDuLieu();
 		//
@@ -49,20 +43,14 @@ BC AE */
 	
 	private static void nhapDuLieu() {
 		//nhap du lieu san
-		listPTH.add(new PhuThuocHam("B","EC"));
+/*		listPTH.add(new PhuThuocHam("B","EC"));
 		listPTH.add(new PhuThuocHam("CD","AB"));
 		listPTH.add(new PhuThuocHam("AC","BD"));
 		listPTH.add(new PhuThuocHam("C","AD"));
 		listPTH.add(new PhuThuocHam("BC","AE"));
 		u = "ABCDEG";
-		x = "AG";
-		/*ABCDEG
-		B EC
-		CD AB
-		AC BD
-		C AD
-		BC AE */
-		/*System.out.print("Nhap tap U:");
+		x = "AG";*/
+		System.out.print("Nhap tap U:");
 		u = CongCu.chuanHoaChuoi(sc.nextLine().toUpperCase());
 		
 		System.out.println("Nhap tap phu thuoc ham, nhap 0 de ket thuc nhap: ");
@@ -80,7 +68,7 @@ BC AE */
 		}
 		
 		System.out.print("Nhap thuoc tinh X: ");
-		x = sc.nextLine().toUpperCase();*/
+		x = sc.nextLine().toUpperCase();
 	}
 	
 	private static void inDuLieu() {
